@@ -1,0 +1,14 @@
+C:\Users\Лёвчик\Desktop\C#\Kontact\Kontact\bin\Debug\net7.0\Kontact.exe
+C:\Users\Лёвчик\Desktop\C#\Kontact\Kontact\bin\Debug\net7.0\Kontact.deps.json
+C:\Users\Лёвчик\Desktop\C#\Kontact\Kontact\bin\Debug\net7.0\Kontact.runtimeconfig.json
+C:\Users\Лёвчик\Desktop\C#\Kontact\Kontact\bin\Debug\net7.0\Kontact.dll
+C:\Users\Лёвчик\Desktop\C#\Kontact\Kontact\bin\Debug\net7.0\Kontact.pdb
+C:\Users\Лёвчик\Desktop\C#\Kontact\Kontact\obj\Debug\net7.0\Kontact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лёвчик\Desktop\C#\Kontact\Kontact\obj\Debug\net7.0\Kontact.AssemblyInfoInputs.cache
+C:\Users\Лёвчик\Desktop\C#\Kontact\Kontact\obj\Debug\net7.0\Kontact.AssemblyInfo.cs
+C:\Users\Лёвчик\Desktop\C#\Kontact\Kontact\obj\Debug\net7.0\Kontact.csproj.CoreCompileInputs.cache
+C:\Users\Лёвчик\Desktop\C#\Kontact\Kontact\obj\Debug\net7.0\Kontact.dll
+C:\Users\Лёвчик\Desktop\C#\Kontact\Kontact\obj\Debug\net7.0\refint\Kontact.dll
+C:\Users\Лёвчик\Desktop\C#\Kontact\Kontact\obj\Debug\net7.0\Kontact.pdb
+C:\Users\Лёвчик\Desktop\C#\Kontact\Kontact\obj\Debug\net7.0\Kontact.genruntimeconfig.cache
+C:\Users\Лёвчик\Desktop\C#\Kontact\Kontact\obj\Debug\net7.0\ref\Kontact.dll
